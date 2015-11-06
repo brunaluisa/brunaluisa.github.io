@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.profile-image {
+  height: 250px;
+}
+
 body {
     overflow-x: hidden;
 }
